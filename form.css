@@ -1,0 +1,26 @@
+.form {
+	width: 500px;
+	height: 500px;
+	padding-top: 10px;
+	margin: 50px auto;
+	background: blanchedalmond;
+	border-radius: 20px;
+	border: 3px solid burlywood;
+}
+
+.submit {
+	width: 100px;
+	height: 40px;
+	background: burlywood;
+	margin: 5px;
+	border-radius: 20px;
+	border: 3px solid burlywood;
+	font-family: 华文行楷;
+	font-size: x-large;
+}
+
+.p {
+	font-family: 华文行楷;
+	font-size: large;
+	text-align: left;
+}
